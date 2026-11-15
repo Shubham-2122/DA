@@ -1,0 +1,5 @@
+Order_ID,Product,Region,Sales
+101,Laptop,West,50000
+102,Mobile,North,30000
+103,Tablet,South,40000
+104,Laptop,East,75000
