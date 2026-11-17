@@ -1,0 +1,221 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Discount_Percent,Sales,Profit,Customer_Age,Payment_Mode,Customer_Rating
+ORD1001,2025-01-01,Monitor,Electronics,Gandhinagar,5,22795,0.0,113975.0,26541.83,56,Credit Card,2.9
+ORD1002,2025-01-02,Headphones,Accessories,Gandhinagar,5,6378,10.0,28701.0,4785.5,19,Cash,4.8
+ORD1003,2025-01-04,Mobile,Electronics,Gandhinagar,4,17311,0.0,69244.0,24026.41,61,UPI,3.2
+ORD1004,2025-01-05,Headphones,Accessories,Vadodara,2,3358,0.0,6716.0,1251.18,61,Cash,4.0
+ORD1005,2025-01-07,Headphones,Accessories,Surat,3,4356,10.0,11761.2,2768.85,21,UPI,4.9
+ORD1006,2025-01-09,Mobile,Electronics,Rajkot,2,23016,0.0,46032.0,11774.25,24,Cash,3.7
+ORD1007,2025-01-10,Monitor,Electronics,Surat,1,15226,5.0,14464.7,3212.6,23,Credit Card,3.9
+ORD1008,2025-01-12,Smartwatch,Accessories,Rajkot,4,8673,20.0,27753.6,181.84,57,Net Banking,3.5
+ORD1009,2025-01-14,Mobile,Electronics,Rajkot,5,29262,10.0,131679.0,12924.84,62,UPI,3.2
+ORD1010,2025-01-15,Smartwatch,Accessories,Rajkot,1,1864,20.0,1491.2,64.61,25,Debit Card,3.0
+ORD1011,2025-01-17,Headphones,Accessories,Surat,1,5314,10.0,4782.6,519.11,58,Cash,4.7
+ORD1012,2025-01-19,Tablet,Electronics,Gandhinagar,1,25265,0.0,25265.0,8725.63,52,Cash,4.1
+ORD1013,2025-01-20,Headphones,Accessories,Vadodara,1,2370,5.0,2251.5,324.19,18,Net Banking,3.9
+ORD1014,2025-01-22,Monitor,Electronics,Surat,3,19685,10.0,53149.5,12837.98,30,Debit Card,2.6
+ORD1015,2025-01-24,Monitor,Electronics,Gandhinagar,5,15755,10.0,70897.5,8049.55,32,Debit Card,3.0
+ORD1016,2025-01-25,Smartwatch,Accessories,Gandhinagar,3,11714,0.0,35142.0,6918.5,23,Cash,4.5
+ORD1017,2025-01-27,Tablet,Electronics,Ahmedabad,3,26157,5.0,74547.45,26734.98,56,UPI,3.2
+ORD1018,2025-01-29,Headphones,Accessories,Vadodara,1,4829,15.0,4104.65,306.28,26,Net Banking,
+ORD1019,2025-01-30,Mobile,Electronics,Ahmedabad,3,12663,5.0,36089.55,9325.93,29,Credit Card,4.3
+ORD1020,2025-02-01,Smartwatch,Accessories,Rajkot,1,5496,5.0,5221.2,745.33,40,Net Banking,3.4
+ORD1021,2025-02-03,Laptop,Electronics,Rajkot,2,81717,10.0,147090.6,34734.96,28,Debit Card,3.1
+ORD1022,2025-02-04,Keyboard,Accessories,Vadodara,5,2827,10.0,12721.5,2374.01,65,UPI,2.9
+ORD1023,2025-02-06,Headphones,Accessories,Rajkot,5,4197,15.0,17837.25,4024.29,36,Credit Card,3.8
+ORD1024,2025-02-08,Headphones,Accessories,Surat,4,4019,20.0,12860.8,2002.79,57,UPI,4.2
+ORD1025,2025-02-09,Laptop,Electronics,Vadodara,2,74384,20.0,119014.4,1404.15,24,Cash,2.9
+ORD1026,2025-02-11,Laptop,Electronics,Rajkot,4,51371,5.0,195209.8,26897.67,22,Net Banking,4.7
+ORD1027,2025-02-13,Monitor,Electronics,Vadodara,1,17248,5.0,16385.6,3376.65,37,UPI,4.1
+ORD1028,2025-02-14,Headphones,Accessories,Vadodara,4,2448,15.0,8323.2,1218.68,65,UPI,4.2
+ORD1029,2025-02-16,Smartwatch,Accessories,Gandhinagar,2,4761,10.0,8569.8,2022.27,58,Cash,4.3
+ORD1030,2025-02-18,Laptop,Electronics,Vadodara,4,60876,5.0,231328.8,46606.44,34,UPI,3.9
+ORD1031,2025-02-19,Headphones,Accessories,Vadodara,5,5365,10.0,24142.5,2750.54,51,Net Banking,3.8
+ORD1032,2025-02-21,Tablet,Electronics,Vadodara,1,17022,0.0,17022.0,4197.82,21,Debit Card,4.4
+ORD1033,2025-02-23,Laptop,Electronics,Rajkot,5,53589,5.0,254547.75,42324.98,58,Net Banking,4.8
+ORD1034,2025-02-24,Laptop,Electronics,Rajkot,5,35301,10.0,158854.5,14953.58,38,UPI,3.3
+ORD1035,2025-02-26,Mobile,Electronics,Surat,2,46584,20.0,74534.4,4933.51,49,Credit Card,3.1
+ORD1036,2025-02-28,Mobile,Electronics,Vadodara,2,46177,10.0,83118.6,14103.95,65,Net Banking,3.2
+ORD1037,2025-03-01,Mobile,Electronics,Surat,2,50754,15.0,86281.8,5158.87,24,UPI,4.1
+ORD1038,2025-03-03,Tablet,Electronics,Surat,4,12368,15.0,42051.2,13029.54,19,Debit Card,3.7
+ORD1039,2025-03-05,Monitor,Electronics,Surat,2,24532,15.0,41704.4,10300.48,23,Debit Card,2.8
+ORD1040,2025-03-06,Laptop,Electronics,Rajkot,5,49599,5.0,235595.25,34307.52,23,Net Banking,3.0
+ORD1041,2025-03-08,Keyboard,Accessories,Gandhinagar,3,546,10.0,1474.2,238.72,59,Debit Card,4.5
+ORD1042,2025-03-10,Monitor,Electronics,,4,21098,10.0,75952.8,21924.49,40,UPI,4.2
+ORD1043,2025-03-11,Laptop,Electronics,Ahmedabad,2,36081,0.0,72162.0,25974.11,57,Net Banking,3.2
+ORD1044,2025-03-13,Smartwatch,Accessories,Rajkot,5,5870,10.0,26415.0,6436.34,43,Debit Card,4.4
+ORD1045,2025-03-15,Laptop,Electronics,Rajkot,4,62932,0.0,251728.0,103265.14,22,Cash,2.5
+ORD1046,2025-03-16,Mobile,Electronics,Gandhinagar,5,47247,10.0,212611.5,65775.28,40,Credit Card,4.0
+ORD1047,2025-03-18,Smartwatch,Accessories,Surat,4,4649,5.0,17666.2,4087.28,49,UPI,3.8
+ORD1048,2025-03-20,Smartwatch,Accessories,Vadodara,2,6411,0.0,12822.0,3582.64,37,Cash,3.5
+ORD1049,2025-03-21,Tablet,Electronics,Vadodara,5,14000,10.0,63000.0,6583.39,18,UPI,4.1
+ORD1050,2025-03-23,Headphones,Accessories,Gandhinagar,5,5180,0.0,25900.0,8532.96,52,UPI,4.1
+ORD1051,2025-03-25,Smartwatch,Accessories,Surat,2,11617,5.0,22072.3,5830.6,62,Debit Card,4.7
+ORD1052,2025-03-26,Tablet,Electronics,Gandhinagar,5,10728,20.0,42912.0,4746.43,26,Debit Card,5.0
+ORD1053,2025-03-28,Tablet,Electronics,Gandhinagar,1,15073,15.0,12812.05,2836.85,29,UPI,4.2
+ORD1054,2025-03-30,Monitor,Electronics,Rajkot,3,21552,0.0,64656.0,13150.21,65,UPI,3.3
+ORD1055,2025-03-31,Headphones,Accessories,Rajkot,5,1195,20.0,4780.0,1183.59,31,Cash,3.9
+ORD1056,2025-04-02,Monitor,Electronics,Rajkot,5,15335,0.0,76675.0,21117.38,38,Cash,4.9
+ORD1057,2025-04-04,Laptop,Electronics,Surat,5,36062,20.0,144248.0,-2491.81,22,Debit Card,4.7
+ORD1058,2025-04-05,Headphones,Accessories,Ahmedabad,4,5646,10.0,20325.6,2690.4,55,Net Banking,3.1
+ORD1059,2025-04-07,Laptop,Electronics,Gandhinagar,3,62569,10.0,168936.3,56401.5,55,Debit Card,4.0
+ORD1060,2025-04-09,Smartwatch,Accessories,Gandhinagar,4,11848,0.0,47392.0,9580.46,21,Cash,3.4
+ORD1061,2025-04-10,Monitor,Electronics,Surat,5,8810,5.0,41847.5,8844.35,43,Debit Card,2.8
+ORD1062,2025-04-12,Headphones,Accessories,Rajkot,5,5068,5.0,24073.0,5900.33,45,Net Banking,4.6
+ORD1063,2025-04-14,Monitor,Electronics,Rajkot,3,26456,10.0,71431.2,7069.99,42,UPI,3.1
+ORD1064,2025-04-15,Keyboard,Accessories,Gandhinagar,4,2605,20.0,8336.0,901.94,33,Net Banking,5.0
+ORD1065,2025-04-17,Smartwatch,Accessories,Ahmedabad,3,11242,20.0,26980.8,3185.64,31,UPI,4.1
+ORD1066,2025-04-19,Keyboard,Accessories,Rajkot,1,3203,20.0,2562.4,-32.31,41,Cash,3.3
+ORD1067,2025-04-20,Mobile,Electronics,Gandhinagar,2,48487,0.0,96974.0,34539.7,58,Cash,5.0
+ORD1068,2025-04-22,Keyboard,Accessories,Gandhinagar,1,1724,5.0,1637.8,388.47,30,Debit Card,4.6
+ORD1069,2025-04-24,Mobile,Electronics,Surat,1,16804,5.0,15963.8,2455.82,62,Net Banking,2.6
+ORD1070,2025-04-25,Laptop,Electronics,Gandhinagar,2,62712,20.0,100339.2,23065.47,43,UPI,4.9
+ORD1071,2025-04-27,Headphones,Accessories,Ahmedabad,5,5584,0.0,27920.0,11479.66,38,Cash,4.5
+ORD1072,2025-04-29,Monitor,Electronics,Gandhinagar,3,16860,10.0,45522.0,6850.71,27,Credit Card,3.4
+ORD1073,2025-04-30,Smartwatch,Accessories,Gandhinagar,1,9045,0.0,9045.0,1727.85,21,UPI,4.2
+ORD1074,2025-05-02,Mobile,Electronics,Vadodara,2,48187,10.0,86736.6,19825.04,29,UPI,3.9
+ORD1075,2025-05-03,Smartwatch,Accessories,Gandhinagar,3,9701,5.0,27647.85,9832.05,38,Credit Card,4.5
+ORD1076,2025-05-05,Monitor,Electronics,Surat,4,22781,20.0,72899.2,6748.54,47,Debit Card,2.7
+ORD1077,2025-05-07,Mobile,Electronics,Rajkot,1,29715,10.0,26743.5,3920.1,47,Credit Card,4.7
+ORD1078,2025-05-08,Smartwatch,Accessories,Ahmedabad,4,6692,10.0,24091.2,3155.9,37,Net Banking,5.0
+ORD1079,2025-05-10,Smartwatch,Accessories,Vadodara,5,7369,0.0,36845.0,10349.17,64,UPI,3.7
+ORD1080,2025-05-12,Monitor,Electronics,Vadodara,4,13090,0.0,52360.0,17647.41,49,Debit Card,3.8
+ORD1081,2025-05-13,Mobile,Electronics,Surat,2,40732,0.0,81464.0,18147.76,45,Credit Card,2.9
+ORD1082,2025-05-15,Smartwatch,Accessories,Surat,1,8781,10.0,7902.9,2059.69,31,Credit Card,4.2
+ORD1083,2025-05-17,Laptop,Electronics,Vadodara,1,58321,10.0,52488.9,9035.77,65,Net Banking,2.5
+ORD1084,2025-05-18,Tablet,Electronics,Surat,1,23568,10.0,21211.2,1963.17,45,Credit Card,
+ORD1085,2025-05-20,Keyboard,Accessories,Vadodara,3,3246,10.0,8764.2,1023.95,64,Cash,2.8
+ORD1086,2025-05-22,Mobile,Electronics,Gandhinagar,3,35333,5.0,100699.05,36551.78,45,Credit Card,3.9
+ORD1087,2025-05-23,Laptop,Electronics,Gandhinagar,2,64926,10.0,116866.8,34284.57,37,UPI,4.2
+ORD1088,2025-05-25,Headphones,Accessories,Surat,5,1032,10.0,4644.0,927.73,64,UPI,3.9
+ORD1089,2025-05-27,Mobile,Electronics,Surat,5,47240,5.0,224390.0,50778.24,62,Net Banking,4.8
+ORD1090,2025-05-28,Smartwatch,Accessories,Ahmedabad,4,3533,15.0,12012.2,3517.55,20,Debit Card,2.5
+ORD1091,2025-05-30,Smartwatch,Accessories,Ahmedabad,2,10911,10.0,19639.8,2178.38,47,Debit Card,4.6
+ORD1092,2025-06-01,Mobile,Electronics,Rajkot,3,12846,10.0,34684.2,9742.6,22,Credit Card,3.3
+ORD1093,2025-06-02,Headphones,Accessories,Ahmedabad,1,1523,10.0,1370.7,293.69,43,Net Banking,3.8
+ORD1094,2025-06-04,Monitor,Electronics,Surat,3,13988,10.0,37767.6,9709.83,22,Credit Card,5.0
+ORD1095,2025-06-06,Smartwatch,Accessories,Ahmedabad,2,7087,0.0,14174.0,5480.83,34,UPI,4.0
+ORD1096,2025-06-07,Keyboard,Accessories,Rajkot,3,2538,5.0,7233.3,1118.6,61,Credit Card,2.8
+ORD1097,2025-06-09,Headphones,Accessories,Rajkot,2,6056,0.0,12112.0,4893.74,46,Debit Card,4.5
+ORD1098,2025-06-11,Keyboard,Accessories,Vadodara,3,2351,0.0,7053.0,1583.41,31,Credit Card,4.8
+ORD1099,2025-06-12,Laptop,Electronics,Vadodara,2,49060,5.0,93214.0,17074.46,55,UPI,4.4
+ORD1100,2025-06-14,Monitor,Electronics,Surat,1,16184,5.0,15374.8,4467.5,31,Net Banking,4.8
+ORD1101,2025-06-16,Headphones,Accessories,Vadodara,3,3910,5.0,11143.5,3403.16,25,Credit Card,2.8
+ORD1102,2025-06-17,Monitor,Electronics,Rajkot,1,12788,10.0,11509.2,1348.7,46,UPI,3.3
+ORD1103,2025-06-19,Smartwatch,Accessories,Surat,1,2750,0.0,2750.0,778.87,22,Debit Card,4.4
+ORD1104,2025-06-21,Keyboard,Accessories,Rajkot,5,3353,0.0,16765.0,3635.51,32,Net Banking,3.8
+ORD1105,2025-06-22,Smartwatch,Accessories,Vadodara,4,4171,15.0,14181.4,4455.82,53,Cash,4.3
+ORD1106,2025-06-24,Headphones,Accessories,Surat,4,2916,0.0,11664.0,2355.8,63,Debit Card,2.9
+ORD1107,2025-06-26,Smartwatch,Accessories,Rajkot,2,9583,10.0,17249.4,6049.82,60,Cash,2.8
+ORD1108,2025-06-27,Tablet,Electronics,Ahmedabad,2,30260,15.0,51442.0,10901.8,46,UPI,4.8
+ORD1109,2025-06-29,Monitor,Electronics,Ahmedabad,5,8792,20.0,35168.0,820.49,18,Debit Card,4.0
+ORD1110,2025-07-01,Smartwatch,Accessories,Gandhinagar,5,8912,5.0,42332.0,7901.16,43,UPI,2.8
+ORD1111,2025-07-02,Tablet,Electronics,Surat,2,26920,20.0,43072.0,7369.46,44,Credit Card,4.8
+ORD1112,2025-07-04,Headphones,Accessories,Ahmedabad,4,1754,20.0,5612.8,1125.55,24,Cash,3.5
+ORD1113,2025-07-06,Laptop,Electronics,Gandhinagar,3,72148,10.0,194799.6,68581.87,24,UPI,4.9
+ORD1114,2025-07-07,Laptop,Electronics,Ahmedabad,4,72011,10.0,259239.6,79422.06,49,Net Banking,3.5
+ORD1115,2025-07-09,Headphones,Accessories,Ahmedabad,3,1751,5.0,4990.35,1353.3,62,Net Banking,3.7
+ORD1116,2025-07-11,Headphones,Accessories,Surat,1,2865,15.0,2435.25,461.87,45,UPI,3.5
+ORD1117,2025-07-12,Keyboard,Accessories,Vadodara,4,1446,0.0,5784.0,1232.98,49,Credit Card,3.2
+ORD1118,2025-07-14,Keyboard,Accessories,Surat,4,2709,15.0,9210.6,379.87,24,Net Banking,3.5
+ORD1119,2025-07-16,Laptop,Electronics,Gandhinagar,3,45998,0.0,137994.0,35705.36,25,UPI,4.5
+ORD1120,2025-07-17,Headphones,Accessories,Vadodara,2,4475,15.0,7607.5,292.71,33,Cash,4.9
+ORD1121,2025-07-19,Keyboard,Accessories,Gandhinagar,2,3016,0.0,6032.0,2409.65,36,Net Banking,4.7
+ORD1122,2025-07-21,Smartwatch,Accessories,Vadodara,2,5977,20.0,9563.2,837.46,59,Credit Card,3.4
+ORD1123,2025-07-22,Monitor,Electronics,Ahmedabad,4,27875,10.0,100350.0,24724.14,51,Net Banking,3.2
+ORD1124,2025-07-24,Tablet,Electronics,Vadodara,4,21093,0.0,84372.0,17850.39,63,UPI,3.7
+ORD1125,2025-07-26,Laptop,Electronics,Ahmedabad,1,37573,10.0,33815.7,6310.96,39,Debit Card,3.6
+ORD1126,2025-07-27,Mobile,Electronics,Vadodara,5,53401,0.0,267005.0,94692.32,23,Credit Card,3.8
+ORD1127,2025-07-29,Mobile,Electronics,Ahmedabad,1,50243,,47730.85,11907.45,55,Credit Card,4.3
+ORD1128,2025-07-31,Smartwatch,Accessories,Vadodara,5,9841,5.0,46744.75,15058.72,57,Credit Card,4.0
+ORD1129,2025-08-01,Laptop,Electronics,Rajkot,2,82924,20.0,132678.4,19818.02,63,Credit Card,2.9
+ORD1130,2025-08-03,Headphones,Accessories,Gandhinagar,3,4576,0.0,13728.0,3225.58,38,Debit Card,3.2
+ORD1131,2025-08-05,Tablet,Electronics,Gandhinagar,3,34762,20.0,83428.8,13015.33,50,Credit Card,2.6
+ORD1132,2025-08-06,Tablet,Electronics,Vadodara,3,25826,15.0,65856.3,5180.34,62,Debit Card,3.3
+ORD1133,2025-08-08,Mobile,Electronics,Ahmedabad,5,52385,5.0,248828.75,74813.73,42,Net Banking,4.2
+ORD1134,2025-08-10,Mobile,Electronics,Rajkot,3,25350,15.0,64642.5,5942.56,47,Credit Card,2.8
+ORD1135,2025-08-11,Smartwatch,Accessories,Ahmedabad,1,5890,0.0,5890.0,1130.54,64,Cash,3.9
+ORD1136,2025-08-13,Headphones,Accessories,Ahmedabad,5,4862,15.0,20663.5,2338.99,35,UPI,4.1
+ORD1137,2025-08-15,Headphones,Accessories,Surat,1,4793,20.0,3834.4,1009.11,33,UPI,3.0
+ORD1138,2025-08-16,Smartwatch,Accessories,Ahmedabad,2,4957,5.0,9418.3,3381.41,65,Credit Card,3.6
+ORD1139,2025-08-18,Smartwatch,Accessories,Surat,4,8537,15.0,29025.8,6604.77,56,UPI,4.1
+ORD1140,2025-08-20,Headphones,Accessories,Vadodara,4,3467,10.0,12481.2,1492.2,57,Credit Card,4.3
+ORD1141,2025-08-21,Tablet,Electronics,Gandhinagar,1,18230,10.0,16407.0,2938.73,35,UPI,4.7
+ORD1142,2025-08-23,Mobile,Electronics,Vadodara,2,21323,0.0,42646.0,9005.82,30,Net Banking,3.5
+ORD1143,2025-08-25,Headphones,Accessories,Gandhinagar,4,1613,0.0,6452.0,2572.73,61,UPI,4.0
+ORD1144,2025-08-26,Tablet,Electronics,Rajkot,2,20616,0.0,41232.0,13988.83,22,UPI,3.1
+ORD1145,2025-08-28,Headphones,Accessories,Ahmedabad,2,4300,5.0,8170.0,2699.83,65,UPI,4.8
+ORD1146,2025-08-30,Monitor,Electronics,Vadodara,1,9632,5.0,9150.4,3276.18,54,Net Banking,3.1
+ORD1147,2025-08-31,Tablet,Electronics,Rajkot,3,14805,20.0,35532.0,-773.02,21,Debit Card,3.5
+ORD1148,2025-09-02,Smartwatch,Accessories,Vadodara,5,7229,15.0,30723.25,8715.24,51,UPI,3.1
+ORD1149,2025-09-03,Laptop,Electronics,Ahmedabad,3,78513,15.0,200208.15,18328.53,26,Debit Card,4.0
+ORD1150,2025-09-05,Laptop,Electronics,Ahmedabad,3,61172,5.0,174340.2,34505.19,41,Debit Card,4.5
+ORD1151,2025-09-07,Keyboard,Accessories,Gandhinagar,5,1280,10.0,5760.0,1137.24,51,Debit Card,4.7
+ORD1152,2025-09-08,Headphones,Accessories,Surat,4,3482,10.0,12535.2,4308.62,29,Credit Card,4.5
+ORD1153,2025-09-10,Laptop,Electronics,Gandhinagar,4,50585,5.0,192223.0,62251.74,65,Credit Card,3.8
+ORD1154,2025-09-12,Smartwatch,Accessories,Surat,5,11703,15.0,49737.75,1875.17,57,Net Banking,3.7
+ORD1155,2025-09-13,Smartwatch,Accessories,Vadodara,2,3962,10.0,7131.6,1276.5,30,Net Banking,4.3
+ORD1156,2025-09-15,Headphones,Accessories,Ahmedabad,4,3183,15.0,10822.2,787.47,30,Debit Card,3.1
+ORD1157,2025-09-17,Smartwatch,Accessories,Vadodara,3,6086,15.0,15519.3,4234.67,62,Credit Card,3.7
+ORD1158,2025-09-18,Monitor,Electronics,Surat,2,21870,0.0,43740.0,14852.86,53,Credit Card,4.6
+ORD1159,2025-09-20,Smartwatch,Accessories,Ahmedabad,2,11539,5.0,21924.1,5121.87,58,UPI,2.8
+ORD1160,2025-09-22,Mobile,Electronics,Surat,5,24987,15.0,106194.75,30524.7,58,Credit Card,3.4
+ORD1161,2025-09-23,Tablet,Electronics,Rajkot,5,12382,0.0,61910.0,12076.48,21,Debit Card,2.9
+ORD1162,2025-09-25,Tablet,Electronics,Surat,1,18073,0.0,18073.0,7266.67,31,Net Banking,3.6
+ORD1163,2025-09-27,Headphones,Accessories,Vadodara,4,6146,15.0,20896.4,6492.61,50,Debit Card,3.1
+ORD1164,2025-09-28,Monitor,Electronics,Ahmedabad,2,18801,5.0,35721.9,4914.21,52,Net Banking,4.6
+ORD1165,2025-09-30,Monitor,Electronics,Surat,5,16078,10.0,72351.0,21465.36,64,Cash,4.1
+ORD1166,2025-10-02,Headphones,Accessories,Gandhinagar,1,4578,20.0,3662.4,972.77,38,Net Banking,4.1
+ORD1167,2025-10-03,Keyboard,Accessories,Surat,1,2182,5.0,2072.9,643.98,55,Credit Card,3.0
+ORD1168,2025-10-05,Laptop,Electronics,Vadodara,4,76752,10.0,276307.2,63499.14,25,Cash,3.0
+ORD1169,2025-10-07,Laptop,Electronics,Surat,5,71444,0.0,357220.0,111135.97,24,Debit Card,4.5
+ORD1170,2025-10-08,Tablet,Electronics,Ahmedabad,4,18884,20.0,60428.8,13255.8,47,UPI,4.0
+ORD1171,2025-10-10,Tablet,Electronics,Gandhinagar,1,11763,0.0,11763.0,3552.63,19,Debit Card,5.0
+ORD1172,2025-10-12,Laptop,Electronics,Vadodara,5,71935,0.0,359675.0,117182.67,62,UPI,4.7
+ORD1173,2025-10-13,Keyboard,Accessories,Ahmedabad,3,1915,10.0,5170.5,1693.72,29,UPI,3.9
+ORD1174,2025-10-15,Monitor,Electronics,Surat,4,15783,10.0,56818.8,11722.62,50,Credit Card,3.8
+ORD1175,2025-10-17,Laptop,Electronics,Surat,1,80004,15.0,68003.4,14730.95,55,Credit Card,4.2
+ORD1176,2025-10-18,Mobile,Electronics,Vadodara,2,15041,0.0,30082.0,11879.49,20,Debit Card,2.6
+ORD1177,2025-10-20,Keyboard,Accessories,Surat,1,2770,10.0,2493.0,307.38,45,Cash,3.3
+ORD1178,2025-10-22,Headphones,Accessories,Surat,3,3230,15.0,8236.5,1342.82,39,Credit Card,3.7
+ORD1179,2025-10-23,Monitor,Electronics,Rajkot,3,11109,10.0,29994.3,5919.31,30,UPI,4.7
+ORD1180,2025-10-25,Mobile,Electronics,Gandhinagar,4,43890,10.0,158004.0,19445.05,49,Debit Card,2.9
+ORD1181,2025-10-27,Keyboard,Accessories,Ahmedabad,3,3461,0.0,10383.0,1878.08,20,Cash,3.0
+ORD1182,2025-10-28,Headphones,Accessories,Rajkot,5,5340,5.0,25365.0,8574.47,47,Net Banking,4.3
+ORD1183,2025-10-30,Smartwatch,Accessories,Rajkot,4,3871,10.0,13935.6,2222.2,41,Credit Card,4.7
+ORD1184,2025-11-01,Laptop,Electronics,Surat,2,41563,10.0,74813.4,16891.16,32,Credit Card,4.5
+ORD1185,2025-11-02,Monitor,Electronics,Rajkot,3,19201,10.0,51842.7,5819.79,20,Net Banking,3.7
+ORD1186,2025-11-04,Smartwatch,Accessories,Surat,1,4758,0.0,4758.0,1180.95,61,Credit Card,3.0
+ORD1187,2025-11-06,Smartwatch,Accessories,Ahmedabad,4,6448,5.0,24502.4,5872.83,37,Credit Card,2.7
+ORD1188,2025-11-07,Laptop,Electronics,Ahmedabad,4,61616,5.0,234140.8,52344.81,57,Cash,2.8
+ORD1189,2025-11-09,Smartwatch,Accessories,Surat,3,8862,15.0,22598.1,4357.82,46,Credit Card,4.2
+ORD1190,2025-11-11,Laptop,Electronics,Ahmedabad,5,77240,0.0,386200.0,105002.07,37,Cash,2.6
+ORD1191,2025-11-12,Smartwatch,Accessories,Rajkot,5,4534,10.0,20403.0,3000.84,45,Cash,3.8
+ORD1192,2025-11-14,Tablet,Electronics,Surat,2,30337,0.0,60674.0,22117.41,46,UPI,2.8
+ORD1193,2025-11-16,Keyboard,Accessories,Vadodara,5,3032,0.0,15160.0,5991.32,31,Cash,2.9
+ORD1194,2025-11-17,Smartwatch,Accessories,Surat,3,4089,0.0,12267.0,2349.93,46,UPI,4.0
+ORD1195,2025-11-19,Monitor,Electronics,Gandhinagar,2,13570,5.0,25783.0,6574.97,33,Credit Card,3.0
+ORD1196,2025-11-21,Monitor,Electronics,Gandhinagar,5,17225,0.0,86125.0,22269.81,64,Credit Card,4.2
+ORD1197,2025-11-22,Monitor,Electronics,Ahmedabad,3,22577,10.0,60957.9,13592.13,43,UPI,2.6
+ORD1198,2025-11-24,Laptop,Electronics,Gandhinagar,1,65659,10.0,59093.1,6184.42,65,Net Banking,3.9
+ORD1199,2025-11-26,Keyboard,Accessories,Gandhinagar,1,1509,15.0,1282.65,47.68,26,Net Banking,3.9
+ORD1200,2025-11-27,Laptop,Electronics,Rajkot,4,74882,10.0,269575.2,40841.9,55,Debit Card,4.5
+ORD1201,2025-11-29,Mobile,Electronics,Ahmedabad,1,43116,5.0,40960.2,6961.68,41,UPI,3.3
+ORD1202,2025-12-01,Laptop,Electronics,Rajkot,2,62723,5.0,119173.7,25476.56,46,UPI,4.0
+ORD1203,2025-12-02,Laptop,Electronics,Surat,4,66010,0.0,264040.0,73694.93,19,UPI,3.4
+ORD1204,2025-12-04,Mobile,Electronics,Surat,2,18471,10.0,33247.8,11594.1,42,Cash,2.9
+ORD1205,2025-12-06,Smartwatch,Accessories,Gandhinagar,2,10034,10.0,18061.2,3911.33,40,Debit Card,2.5
+ORD1206,2025-12-07,Monitor,Electronics,Rajkot,1,13542,10.0,12187.8,3098.17,38,Net Banking,3.4
+ORD1207,2025-12-09,Mobile,Electronics,Vadodara,4,18012,5.0,68445.6,21731.87,46,Cash,3.8
+ORD1208,2025-12-11,Mobile,Electronics,Ahmedabad,2,54641,5.0,103817.9,29587.91,47,Debit Card,2.8
+ORD1209,2025-12-12,Tablet,Electronics,Ahmedabad,5,25945,0.0,129725.0,45291.31,59,Net Banking,3.1
+ORD1210,2025-12-14,Tablet,Electronics,Rajkot,4,31587,0.0,126348.0,28329.79,62,Credit Card,2.8
+ORD1211,2025-12-16,Smartwatch,Accessories,Ahmedabad,5,9085,15.0,38611.25,9778.22,32,Credit Card,2.9
+ORD1212,2025-12-17,Laptop,Electronics,Surat,2,44852,20.0,71763.2,12126.09,44,Net Banking,3.3
+ORD1213,2025-12-19,Headphones,Accessories,Vadodara,4,4483,10.0,16138.8,2254.28,53,Credit Card,3.6
+ORD1214,2025-12-21,Mobile,Electronics,Gandhinagar,3,38160,15.0,97308.0,17916.8,34,Net Banking,4.1
+ORD1215,2025-12-22,Tablet,Electronics,Gandhinagar,3,17622,0.0,52866.0,17243.97,42,Credit Card,3.2
+ORD1216,2025-12-24,Monitor,Electronics,Surat,4,18543,15.0,63046.2,9288.36,49,Net Banking,2.7
+ORD1217,2025-12-26,Smartwatch,Accessories,Ahmedabad,3,9643,5.0,27482.55,8155.97,56,Cash,3.6
+ORD1218,2025-12-27,Tablet,Electronics,Gandhinagar,4,13713,15.0,46624.2,11733.34,25,Credit Card,4.2
+ORD1219,2025-12-29,Tablet,Electronics,Rajkot,2,12428,5.0,23613.2,5202.94,19,UPI,5.0
+ORD1220,2025-12-31,Monitor,Electronics,Rajkot,4,21109,0.0,84436.0,24068.38,22,Net Banking,4.1
